@@ -1,0 +1,4 @@
+public class Main {
+    public static vood main(String[] args) {
+        int javaClass=5;
+        System.out.println("The value is" + javaclass);    
